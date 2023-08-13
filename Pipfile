@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 pygame = "*"
+accessible-output2 = "*"
 
 [dev-packages]
 flake8 = "*"
