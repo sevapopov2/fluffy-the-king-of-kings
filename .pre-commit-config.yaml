@@ -21,7 +21,7 @@ repos:
           [
             flake8-builtins,
             flake8-docstrings,
-            flake8-import-order,
+            flake8-isort,
             flake8-variables-names,
             flake8-quotes,
           ]
