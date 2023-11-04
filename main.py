@@ -1,4 +1,4 @@
-'''Main file to launch the game.'''
+"""Main file to launch the game."""
 
 import pygame
 
