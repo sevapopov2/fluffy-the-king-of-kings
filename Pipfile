@@ -4,8 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pygame = "*"
 accessible-output2 = "*"
+pysdl2 = "*"
 
 [dev-packages]
 flake8 = "*"
