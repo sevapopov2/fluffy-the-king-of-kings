@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 accessible-output2 = "*"
 pysdl2 = "*"
+pysdl2-dll = "*"
 
 [dev-packages]
 flake8 = "*"
